@@ -481,6 +481,11 @@ h3 {
   color: #fff;
 }
 
+.portfolio-figure__technology {
+  font-size: 18px;
+  padding-top: 15px;
+}
+
 .download {
   text-align: left;
 }
